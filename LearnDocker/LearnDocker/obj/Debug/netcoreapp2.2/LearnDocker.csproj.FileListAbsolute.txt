@@ -1,0 +1,14 @@
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.2\LearnDocker.deps.json
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.2\LearnDocker.runtimeconfig.json
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.2\LearnDocker.runtimeconfig.dev.json
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.2\LearnDocker.dll
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\bin\Debug\netcoreapp2.2\LearnDocker.pdb
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.csprojAssemblyReference.cache
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.csproj.CoreCompileInputs.cache
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.RazorAssemblyInfo.cache
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.RazorAssemblyInfo.cs
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.AssemblyInfoInputs.cache
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.AssemblyInfo.cs
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.RazorTargetAssemblyInfo.cache
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.dll
+D:\Arul Pushpam\MY Doc\SolutionFiles\Docker\LearnDocker\LearnDocker\obj\Debug\netcoreapp2.2\LearnDocker.pdb
